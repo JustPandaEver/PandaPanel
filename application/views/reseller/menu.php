@@ -38,13 +38,6 @@
                 <i class="site-menu-icon wb-file" aria-hidden="true"></i>
                   <span class="site-menu-title">Account</span>
               </a>
-            </li>
-            <li class="site-menu-item">
-              <a class="animsition-link" href="<?php echo base_url('storage'); ?>" data-slug="uikit-buttons">
-                <i class="site-menu-icon wb-layout" aria-hidden="true"></i>
-                  <span class="site-menu-title">Storage</span>
-              </a>
-            </li>
 
             <li class="site-menu-item">
               <a class="animsition-link" href="<?php echo base_url('clientarea/deposit'); ?>" data-slug="uikit-buttons">
